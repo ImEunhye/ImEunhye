@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=public%20class%20ImEunhye%20()%20{&fontSize=40&animation=fadeIn" />
 
 </br>
+
 <h3 align="center"><b>Hi there!</b></h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Eunhye Im :sunglasses:, a junior developer.
 
@@ -17,7 +18,6 @@ I'm Eunhye Im :sunglasses:, a junior developer.
 <h3 align="center"><b>Interest</b></h3>
 
 Web development using spring framework <br/>
-
 
 </br>
 <h3 align="center"><b>Latest project</b></h3>
