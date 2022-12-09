@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=public%20class%20ImEunhye%20()%20{&fontSize=40&animation=fadeIn" />
 
 </br>
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h3 align="center"><b>Hi there!</b></h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Eunhye Im :sunglasses:, a junior developer.
 
 </br>
-### About me
+<h3 align="center"><b>About me</b></h3>
 
 :pencil: I’m studying to be a web full stack developer.<br/>
 📫 How to reach me: 
@@ -14,13 +14,13 @@ I'm Eunhye Im :sunglasses:, a junior developer.
 
 <br/>
 
-### Interest
+<h3 align="center"><b>Interest</b></h3>
 
 Web development using spring framework <br/>
 
 
 </br>
-### Latest Projects
+<h3 align="center"><b>Latest project</b></h3>
 [Papago_clone_project](https://github.com/ImEunhye/papago.git)
 
 </br>
