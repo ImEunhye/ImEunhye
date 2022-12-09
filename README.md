@@ -4,7 +4,7 @@
 </br>
 
 <h3 align="center"><b>Hi there!</b></h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Eunhye Im :sunglasses:, a junior developer.
+I'm Eunhye Im :sunglasses:, a junior developer.<br/>
 
 </br>
 <h3 align="center"><b>About me</b></h3>
@@ -33,7 +33,7 @@ Web development using spring framework <br/>
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp<br/>
 
 </br>
 
@@ -42,7 +42,7 @@ Web development using spring framework <br/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ImEunhye&show_icons=true" width="42%" />
-</a>
+</a><br/>
 
 </br>
 
