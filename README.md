@@ -33,7 +33,8 @@ Web development using spring framework <br/>
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<br/>
 
 </br>
 
@@ -42,7 +43,8 @@ Web development using spring framework <br/>
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ImEunhye&show_icons=true" width="42%" />
-</a><br/>
+</a>
+<br/>
 
 </br>
 
