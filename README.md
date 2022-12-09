@@ -3,7 +3,7 @@
 
 </br>
 
-<h3 align="center"><b>Hi there!</b></h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h3 align="center"><b>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b></h3>
 I'm Eunhye Im :sunglasses:, a junior developer.<br/>
 
 </br>
@@ -17,7 +17,7 @@ I'm Eunhye Im :sunglasses:, a junior developer.<br/>
 
 <h3 align="center"><b>Interest</b></h3>
 
-Web development using spring framework <br/>
+Web development using spring framework 
 
 </br>
 <h3 align="center"><b>Latest project</b></h3>
@@ -36,8 +36,6 @@ Web development using spring framework <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <br/>
 
-</br>
-
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImEunhye&exclude_repo=ImEunhye.github.io&layout=compact" />
 </a>
@@ -45,8 +43,6 @@ Web development using spring framework <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ImEunhye&show_icons=true" width="42%" />
 </a>
 <br/>
-
-</br>
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=footer&text=}&fontSize=40" />
 </div>
