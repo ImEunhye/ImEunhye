@@ -21,7 +21,7 @@ Web development using spring framework
 
 </br>
 <h3 align="center"><b>Latest project</b></h3>
-[Papago_clone_project](https://github.com/ImEunhye/papago.git)
+[Papago_clone_project](https://github.com/ImEunhye/papago.git)<br/>
 
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -36,6 +36,7 @@ Web development using spring framework
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <br/>
 
+<br/>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImEunhye&exclude_repo=ImEunhye.github.io&layout=compact" />
 </a>
@@ -44,5 +45,6 @@ Web development using spring framework
 </a>
 <br/>
 
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=footer&text=}&fontSize=40" />
 </div>
