@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=public%20class%20ImEunhye%20()%20{&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=public%20class%20ImEunhye%20{&fontSize=40&animation=fadeIn" />
 
 </br>
 
