@@ -21,14 +21,14 @@ Web development using spring framework
 
 </br>
 <h3 align="center"><b>Latest project</b></h3>
-[Papago_clone_project](https://github.com/ImEunhye/papago.git)<br/>
-
+[yestoday project]<br/>
+(https://github.com/ImEunhye/yestoday-backend)<br/>
+(https://github.com/ImEunhye/yestoday-frontend)<br/>
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<p align="center"> 
 <img src="https://img.shields.io/badge/Java-F48E00?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
