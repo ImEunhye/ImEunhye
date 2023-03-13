@@ -9,7 +9,7 @@ I'm Eunhye Im :sunglasses:, a junior developer.<br/>
 </br>
 <h3 align="center"><b>About me</b></h3>
 
-:pencil: I’m studying to be a web full stack developer.<br/>
+:pencil: I’m studying to be a web full stack developer!<br/>
 📫 How to reach me: 
 <img src = "https://img.shields.io/badge/grclim130@gmail.com-F74843?style=flat-square&logo=Gmail&logoColor=white">
 
