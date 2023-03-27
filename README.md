@@ -17,7 +17,7 @@ I'm Eunhye Im :sunglasses:, a junior developer.<br/>
 
 <h3 align="center"><b>Interest</b></h3>
 
-Web development using spring framework 
+Web development using spring framework.
 
 </br>
 <h3 align="center"><b>Latest project</b></h3>
